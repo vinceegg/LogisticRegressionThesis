@@ -48,7 +48,7 @@ To set up this project on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spam-detection-logistic-regression.git
+   git clone https://github.com/vinceegg/LogisticRegressionThesis.git
 
 ## Flow of the System
 
@@ -62,7 +62,6 @@ To set up this project on your local machine, follow these steps:
 
 ## Research Team
 # This thesis was prepared and researched by:
-Carlos, Vince Anthony S.
-Pancho, John Cedric C.
+- Carlos, Vince Anthony S.
+- Pancho, John Cedric C.
 
-"# LogisticRegression" 
