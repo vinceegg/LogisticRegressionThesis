@@ -1,4 +1,8 @@
-# Enhancement of Logistic Regression Algorithm for Email Spam Detection
+## Enhancement of Logistic Regression Algorithm for Email Spam Detection
+
+   ```bash
+https://doi.org/10.36948/ijfmr.2024.v06i06.32374
+   ```
 
 ## Table of Contents
 - [Introduction](#introduction)
